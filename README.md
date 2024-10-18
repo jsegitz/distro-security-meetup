@@ -15,6 +15,10 @@ Possible topics include
 - Identify areas of cooperation
 - Avoid duplicate work
 
+Next meeting
+============
+Topics for the next meeting: https://github.com/jsegitz/distro-security-meetup/blob/main/minutes/next.md
+
 Resources
 ============
 - Collection of topics SUSE wants to work on: https://en.opensuse.org/XZ_backdoor_brainstorming

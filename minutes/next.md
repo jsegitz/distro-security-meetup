@@ -39,3 +39,5 @@ Topics:
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit ID hash, release archive creation command(s) (Norbert Manthey)
 
   Similar project https://repology.org/
+
+- Embedded Code Tracking (Wolfgang Frisch)

@@ -21,8 +21,8 @@ Invited:
 - Wolfgang Frisch (SUSE)
 - Paolo Perego (SUSE)
 - Filippo Bonazzi (SUSE)
-- Frederic (Amazon)
-- Frederick Lefebvre (Arch)
+- Frederic (Arch)
+- Frederick Lefebvre (Amazon)
 - Levent Polyak (Arch)
 
 Participated:

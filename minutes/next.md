@@ -1,4 +1,4 @@
-2024-11-19
+2024-12-17
 
 Invited:
 
@@ -29,15 +29,15 @@ Participated:
 
 
 Topics:
-- Presentation from RH about their way of working
+- Google meet or jitsi? Google sneaks in all the time
+  so would be my preference
 
-- Issue with coordinated disclosure. Sometimes tricky to get hold of people.  Do you experience the same issues?
-  Would it be helpful to have a way to coordinate this better (maybe via this group)?
-
-  In general yes. One option could be VINCE or do it fully in the open (e.g. oss sec)
+- Combined efforts to score the CVEs and check affectedness
 
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit ID hash, release archive creation command(s) (Norbert Manthey)
 
   Similar project https://repology.org/
 
 - Embedded Code Tracking (Wolfgang Frisch)
+
+- Amazon Linux presentation next time?

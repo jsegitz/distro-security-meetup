@@ -1,29 +1,28 @@
 2024-12-17
 
 Invited:
-
 - Johannes Segitz (SUSE)
 - Marc Deslauriers (Canonical)
 - Mark Esler (Canonical)
 - Marcus Meissner (SUSE)
 - Alex Murray
 - Avinash Hanwate
-- Steve Beattie (Canonical)
 - Andreas Stieger (Amazon)
-- Salvatore Bonaccorso
-- Moritz Muehlenhoff
+- Salvatore Bonaccorso (Debian)
+- Moritz Muehlenhoff (Debian)
 - Marco Benatto (RH)
 - Patrick Del Bello (RH)
-- Anthraxx at archlinux.org
-- Freswa at archlinux.org
-- Jmm at inutil.org
-- Sam at gentoo.org
+- Anthraxx (Arch)
+- Freswa (Arch)
+- Sam (Gentoo)
 - Wolfgang Frisch (SUSE)
 - Paolo Perego (SUSE)
 - Filippo Bonazzi (SUSE)
 - Frederic (Arch)
 - Frederick Lefebvre (Amazon)
 - Levent Polyak (Arch)
+- Samuel Henrique (Amazon, Debian)
+- Sebastien Delafond (Debian)
 
 Participated:
 

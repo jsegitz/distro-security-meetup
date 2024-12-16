@@ -23,6 +23,7 @@ Invited:
 - Levent Polyak (Arch)
 - Samuel Henrique (Amazon, Debian)
 - Sebastien Delafond (Debian)
+- Jim Perrin (Microsoft)
 
 Participated:
 

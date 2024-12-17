@@ -1,4 +1,4 @@
-2024-12-17
+2025-01-21
 
 Invited:
 - Johannes Segitz (SUSE)
@@ -24,12 +24,16 @@ Invited:
 - Samuel Henrique (Amazon, Debian)
 - Sebastien Delafond (Debian)
 - Jim Perrin (Microsoft)
+- Cathy Hu (SUSE)
 
 Participated:
 
 
 Topics:
-
-- Embedded Code Tracking (Wolfgang Frisch)
-
 - Amazon Linux presentation
+
+- Extend RPM Specfile with additional meta data, e.g. package repo URL, commit ID hash, release archive creation command(s) (Norbert Manthey)
+
+  Similar project https://repology.org/
+
+- Combined efforts to score the CVEs and check affectedness

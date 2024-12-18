@@ -30,6 +30,11 @@ Participated:
 
 
 Topics:
+- Mailing list for the group. Options:
+  - SUSE mailman: Drawback will use suse domain
+  - Google group: https://groups.google.com/g/distro-security-meetup, realized only afterwards that you need a google account for this
+  Alternatives? What poison do you like? 
+
 - Amazon Linux presentation
 
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit ID hash, release archive creation command(s) (Norbert Manthey)

@@ -19,7 +19,7 @@ Next meeting
 ============
 Topics for the next meeting: https://github.com/jsegitz/distro-security-meetup/blob/main/minutes/next.md
 
-Next meeting
+How to join
 ============
 If you're interested to join please reach out to Johannes Segitz (SUSE). You'll figure the address out :) 
 

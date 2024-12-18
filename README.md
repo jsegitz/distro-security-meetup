@@ -19,6 +19,10 @@ Next meeting
 ============
 Topics for the next meeting: https://github.com/jsegitz/distro-security-meetup/blob/main/minutes/next.md
 
+Next meeting
+============
+If you're interested to join please reach out to Johannes Segitz (SUSE). You'll figure the address out :) 
+
 Resources
 ============
 - Collection of topics SUSE wants to work on: https://en.opensuse.org/XZ_backdoor_brainstorming

@@ -33,6 +33,7 @@ Topics:
 - Mailing list for the group. Options:
   - SUSE mailman: Drawback will use suse domain
   - Google group: https://groups.google.com/g/distro-security-meetup, realized only afterwards that you need a google account for this
+  - We tested groups.io and that seems to work fine and require no account
   Alternatives? What poison do you like? 
 
 - Amazon Linux presentation

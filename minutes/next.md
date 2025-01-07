@@ -36,7 +36,7 @@ Topics:
   - We tested groups.io and that seems to work fine and require no account
   Alternatives? What poison do you like? 
 
-- Amazon Linux presentation
+- Amazon Linux presentation (Frederick)
 
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit ID hash, release archive creation command(s) (Norbert Manthey)
 

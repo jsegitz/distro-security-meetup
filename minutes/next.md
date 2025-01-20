@@ -42,4 +42,6 @@ Topics:
 
   Similar project https://repology.org/
 
+- Slow CVE assignments by MITRE (Johannes Segitz)
+
 - Combined efforts to score the CVEs and check affectedness

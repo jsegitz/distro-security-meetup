@@ -34,9 +34,11 @@ Topics:
   - SUSE mailman: Drawback will use suse domain
   - Google group: https://groups.google.com/g/distro-security-meetup, realized only afterwards that you need a google account for this
   - We tested groups.io and that seems to work fine and require no account
-  Alternatives? What poison do you like? 
+  Alternatives? What poison do you like? (Johannes Segitz).
 
-- Amazon Linux presentation (Frederick)
+- Move timeslot for this meeting, too soon for PST (Johannes Segitz).
+
+- Amazon Linux presentation (Frederick Lefebvre)
 
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit ID hash, release archive creation command(s) (Norbert Manthey)
 

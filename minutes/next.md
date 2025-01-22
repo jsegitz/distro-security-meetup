@@ -37,4 +37,8 @@ Topics:
 
   With Bernhard
 
+- Handling testing during embargo (Salvatore Bonaccorso)
+
+  negative example: the rsync issue
+
 - Combined efforts to score the CVEs and check affectedness

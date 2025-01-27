@@ -35,7 +35,7 @@ Topics:
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit
   ID hash, release archive creation command(s) (Norbert Manthey)
 
-  With Bernhard
+  Guest: Bernhard Wiedemann, working on reproducible builds @ SUSE
 
 - Handling testing during embargo (Salvatore Bonaccorso)
 

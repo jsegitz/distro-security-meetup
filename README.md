@@ -26,4 +26,5 @@ If you're interested to join please reach out to Johannes Segitz (SUSE). You'll 
 Resources
 ============
 - Collection of topics SUSE wants to work on: https://en.opensuse.org/XZ_backdoor_brainstorming
+- Mailing list for this group: https://groups.io/g/distro-security-team-meetup/topics
 

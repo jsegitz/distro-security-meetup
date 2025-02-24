@@ -3,7 +3,6 @@
 Invited:
 - Johannes Segitz (SUSE)
 - Marc Deslauriers (Canonical)
-- Mark Esler (Canonical)
 - Marcus Meissner (SUSE)
 - Alex Murray
 - Avinash Hanwate
@@ -25,12 +24,17 @@ Invited:
 - Sebastien Delafond (Debian)
 - Jim Perrin (Microsoft)
 - Cathy Hu (SUSE)
+  Mihendri (Microsoft)
 
 Participated:
 
 
 Topics:
+- Mailing list gpg woes (Johannes Segitz)
+
 - Amazon Linux presentation (Frederick Lefebvre)
+
+- Mark Esler leaving Canonical and therefor this group
 
 - Extend RPM Specfile with additional meta data, e.g. package repo URL, commit
   ID hash, release archive creation command(s) (Norbert Manthey)

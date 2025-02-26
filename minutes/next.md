@@ -1,4 +1,4 @@
-2025-01-21
+2025-FIXME
 
 Invited:
 - Johannes Segitz (SUSE)
@@ -24,25 +24,14 @@ Invited:
 - Sebastien Delafond (Debian)
 - Jim Perrin (Microsoft)
 - Cathy Hu (SUSE)
-  Mihendri (Microsoft)
+- Michael Hendrickx (Microsoft)
+- Chris Gordon (Microsoft)
+- Norbert Manthey (Amazon)
 
 Participated:
 
 
 Topics:
-- Mailing list gpg woes (Johannes Segitz)
-
 - Amazon Linux presentation (Frederick Lefebvre)
-
-- Mark Esler leaving Canonical and therefor this group
-
-- Extend RPM Specfile with additional meta data, e.g. package repo URL, commit
-  ID hash, release archive creation command(s) (Norbert Manthey)
-
-  Guest: Bernhard Wiedemann, working on reproducible builds @ SUSE
-
-- Handling testing during embargo (Salvatore Bonaccorso)
-
-  negative example: the rsync issue
 
 - Combined efforts to score the CVEs and check affectedness

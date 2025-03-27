@@ -4,7 +4,6 @@ Invited:
 - Johannes Segitz (SUSE)
 - Marc Deslauriers (Canonical)
 - Marcus Meissner (SUSE)
-- Alex Murray
 - Avinash Hanwate
 - Andreas Stieger (Amazon)
 - Salvatore Bonaccorso (Debian)

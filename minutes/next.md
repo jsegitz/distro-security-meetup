@@ -26,11 +26,16 @@ Invited:
 - Michael Hendrickx (Microsoft)
 - Chris Gordon (Microsoft)
 - Norbert Manthey (Amazon)
+- Diogo Sousa (Canonical)
 
 Participated:
 
 
 Topics:
-- Amazon Linux presentation (Frederick Lefebvre)
+- Amazon Linux presentation (Amazon)
+
+- CVE woes
+
+- Frequency/purpose of meeting (Johannes)
 
 - Combined efforts to score the CVEs and check affectedness

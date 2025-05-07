@@ -27,6 +27,7 @@ Invited:
 - Chris Gordon (Microsoft)
 - Norbert Manthey (Amazon)
 - Diogo Sousa (Canonical)
+- David Fernandez Gonzalez (Oracle)
 
 Participated:
 

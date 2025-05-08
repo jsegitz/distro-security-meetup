@@ -28,6 +28,8 @@ Invited:
 - Norbert Manthey (Amazon)
 - Diogo Sousa (Canonical)
 - David Fernandez Gonzalez (Oracle)
+- Denis Pilipchuk (Oracle
+- John Haxby (Oracle)
 
 Participated:
 

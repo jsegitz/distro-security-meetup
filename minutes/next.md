@@ -33,12 +33,21 @@ Invited:
 
 Participated:
 
+Standing topics:
+
+- Upcoming conferences:
+  - For bigger groups organize a room
+  - For smaller groups: Just meet for a beer
 
 Topics:
+
+- Mailing list updated, signal group
+
 - Amazon Linux presentation (Amazon)
 
 - CVE woes
 
-- Frequency/purpose of meeting (Johannes)
-
 - Combined efforts to score the CVEs and check affectedness
+
+- Oracle presentation (David Fernandez Gonzalez)
+  Data TBD

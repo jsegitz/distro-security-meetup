@@ -35,13 +35,16 @@ Participated:
 
 Standing topics:
 
-- Upcoming conferences:
+- Conferences members visit to meet up, e.g.
+  - FOSDEM
+  - https://events.linuxfoundation.org/linux-security-summit-europe/
+
+  Sent conferences you join to the mailing list if you're interested to meet up
+
   - For bigger groups organize a room
   - For smaller groups: Just meet for a beer
 
 Topics:
-
-- Mailing list updated, signal group
 
 - Amazon Linux presentation (Amazon)
 

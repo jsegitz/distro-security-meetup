@@ -30,6 +30,7 @@ Invited:
 - David Fernandez Gonzalez (Oracle)
 - Denis Pilipchuk (Oracle
 - John Haxby (Oracle)
+- Aleksandr Burmahev (Oracle)
 
 Participated:
 
@@ -45,6 +46,10 @@ Standing topics:
   - For smaller groups: Just meet for a beer
 
 Topics:
+
+- Amazon Linux presentation (Amazon)
+
+  First year of this meeting, a look back
 
 - Amazon Linux presentation (Amazon)
 

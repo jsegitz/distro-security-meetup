@@ -47,9 +47,11 @@ Standing topics:
 
 Topics:
 
-- Amazon Linux presentation (Amazon)
+- First year of this meeting, a look back
 
-  First year of this meeting, a look back
+- Generic hardening (compile flags, kernel parameter, default configurations for servers, ...)
+
+  Norbert Manthey
 
 - Amazon Linux presentation (Amazon)
 

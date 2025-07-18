@@ -47,7 +47,7 @@ Standing topics:
 
 Topics:
 
-- First year of this meeting, a look back
+- GCVE initiative (invite guest Alexandre Dulaunoy?)
 
 - Generic hardening (compile flags, kernel parameter, default configurations for servers, ...)
 

@@ -47,8 +47,6 @@ Standing topics:
 
 Topics:
 
-- GCVE initiative (invite guest Alexandre Dulaunoy?)
-
 - Generic hardening (compile flags, kernel parameter, default configurations for servers, ...)
 
   Norbert Manthey
@@ -61,3 +59,7 @@ Topics:
 
 - Oracle presentation (David Fernandez Gonzalez)
   Data TBD
+
+- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
+  Not available in July, contact again in September
+

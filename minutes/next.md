@@ -51,15 +51,18 @@ Topics:
 
   Norbert Manthey
 
-- Amazon Linux presentation (Amazon)
-
 - CVE woes
+
+  No reaction from CVE board. Tried email and linkedin
+
+- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
+  Not available in July, contact again in September
 
 - Combined efforts to score the CVEs and check affectedness
 
 - Oracle presentation (David Fernandez Gonzalez)
   Data TBD
 
-- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
-  Not available in July, contact again in September
+- Amazon Linux presentation (Amazon)
 
+  Skippd until September

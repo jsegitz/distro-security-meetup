@@ -55,9 +55,6 @@ Topics:
 
   No reaction from CVE board. Tried email and linkedin
 
-- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
-  Not available in July, contact again in September
-
 - Combined efforts to score the CVEs and check affectedness
 
 - Oracle presentation (David Fernandez Gonzalez)
@@ -66,3 +63,6 @@ Topics:
 - Amazon Linux presentation (Amazon)
 
   Skippd until September
+
+- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
+  Not available in July, contact again in September

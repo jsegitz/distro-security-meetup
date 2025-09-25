@@ -47,22 +47,24 @@ Standing topics:
 
 Topics:
 
-- Generic hardening (compile flags, kernel parameter, default configurations for servers, ...)
-
-  Norbert Manthey
-
-- CVE woes
-
-  No reaction from CVE board. Tried email and linkedin
-
-- Combined efforts to score the CVEs and check affectedness
-
-- Oracle presentation (David Fernandez Gonzalez)
-  Data TBD
+- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
+  Not available in July, contact again in September
 
 - Amazon Linux presentation (Amazon)
 
   Skippd until September
 
-- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
-  Not available in July, contact again in September
+- Norbert Manthey: 
+  * git-llm-pick tool
+  * package-validation-tool 
+
+  https://github.com/awslabs/Git_llm_pick/
+
+  Postponed to next meeting
+
+- Issues in the Ruby Gem system
+
+  Postponed to next meeting
+
+- RH ExploitIQ Demo (James Fuller)
+  https://github.com/RedHatProductSecurity/aegis-ai

@@ -47,6 +47,8 @@ Standing topics:
 
 Topics:
 
+- https://infosec.exchange/@joshbressers/115341200496542831
+
 - GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
   Not available in July, contact again in September
 

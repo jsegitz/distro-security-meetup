@@ -47,14 +47,10 @@ Standing topics:
 
 Topics:
 
-- https://infosec.exchange/@joshbressers/115341200496542831
-
 - GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
   Not available in July, contact again in September
 
 - Amazon Linux presentation (Amazon)
-
-  Skippd until September
 
 - Norbert Manthey: 
   * git-llm-pick tool
@@ -62,11 +58,7 @@ Topics:
 
   https://github.com/awslabs/Git_llm_pick/
 
-  Postponed to next meeting
-
-- Issues in the Ruby Gem system
-
-  Postponed to next meeting
-
 - RH ExploitIQ Demo (James Fuller)
   https://github.com/RedHatProductSecurity/aegis-ai
+
+- Microsoft presenation

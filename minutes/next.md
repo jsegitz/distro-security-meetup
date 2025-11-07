@@ -62,3 +62,5 @@ Topics:
   https://github.com/RedHatProductSecurity/aegis-ai
 
 - Microsoft presenation
+
+- oss-security thread: Becoming a CVE Naming Authority for your project

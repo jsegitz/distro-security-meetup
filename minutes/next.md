@@ -27,7 +27,6 @@ Invited:
 - Chris Gordon (Microsoft)
 - Norbert Manthey (Amazon)
 - Diogo Sousa (Canonical)
-- David Fernandez Gonzalez (Oracle)
 - Denis Pilipchuk (Oracle
 - John Haxby (Oracle)
 - Aleksandr Burmahev (Oracle)

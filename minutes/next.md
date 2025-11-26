@@ -46,9 +46,6 @@ Standing topics:
 
 Topics:
 
-- GCVE initiative (Guest Alexandre Dulaunoy of CIRCLE)
-  Not available in July, contact again in September
-
 - Amazon Linux presentation (Amazon)
 
 - Norbert Manthey: 
@@ -63,3 +60,5 @@ Topics:
 - Microsoft presenation
 
 - oss-security thread: Becoming a CVE Naming Authority for your project
+
+- Zeropath trial by SUSE

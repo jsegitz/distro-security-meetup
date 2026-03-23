@@ -1,4 +1,4 @@
-2025-FIXME
+2026-FIXME
 
 Invited:
 - Johannes Segitz (SUSE)
@@ -48,17 +48,7 @@ Topics:
 
 - Amazon Linux presentation (Amazon)
 
-- Norbert Manthey: 
-  * git-llm-pick tool
-  * package-validation-tool 
-
-  https://github.com/awslabs/Git_llm_pick/
-
 - RH ExploitIQ Demo (James Fuller)
   https://github.com/RedHatProductSecurity/aegis-ai
 
 - Microsoft presenation
-
-- oss-security thread: Becoming a CVE Naming Authority for your project
-
-- Zeropath trial by SUSE

@@ -30,6 +30,8 @@ Invited:
 - Denis Pilipchuk (Oracle
 - John Haxby (Oracle)
 - Aleksandr Burmahev (Oracle)
+- James Fuller (RH)
+- Rohit Keshri
 
 Participated:
 

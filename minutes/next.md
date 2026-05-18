@@ -48,6 +48,11 @@ Standing topics:
 
 Topics:
 
+- CRA with Inken from Debian
+
+- Kernel threat modell:
+  https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=36d49bba19f2c19c933d13b25dcf4eb607a030b3
+
 - Amazon Linux presentation (Amazon)
 
 - RH ExploitIQ Demo (James Fuller)

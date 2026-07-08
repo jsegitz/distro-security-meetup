@@ -48,13 +48,9 @@ Standing topics:
 
 Topics:
 
-- CRA with Inken from Debian
+- Amazon Linux presentation (Bjoern from Amazon)
 
-- Kernel threat modell:
-  https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=36d49bba19f2c19c933d13b25dcf4eb607a030b3
-  https://lkml.org/lkml/2026/5/17/896
-
-- Amazon Linux presentation (Amazon)
+- CRA developments
 
 - RH ExploitIQ Demo (James Fuller)
   https://github.com/RedHatProductSecurity/aegis-ai

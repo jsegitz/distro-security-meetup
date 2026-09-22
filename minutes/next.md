@@ -14,7 +14,6 @@ Invited:
 - Freswa (Arch)
 - Sam (Gentoo)
 - Wolfgang Frisch (SUSE)
-- Paolo Perego (SUSE)
 - Filippo Bonazzi (SUSE)
 - Frederic (Arch)
 - Frederick Lefebvre (Amazon)

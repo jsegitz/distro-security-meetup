@@ -25,12 +25,12 @@ Invited:
 - Michael Hendrickx (Microsoft)
 - Chris Gordon (Microsoft)
 - Norbert Manthey (Amazon)
-- Diogo Sousa (Canonical)
 - Denis Pilipchuk (Oracle
 - John Haxby (Oracle)
 - Aleksandr Burmahev (Oracle)
 - James Fuller (RH)
 - Rohit Keshri
+- Luci Stanescu (Canonical)
 
 Participated:
 
